@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	「Mengtao的博客」的评论	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/blog/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/</link>
 	<description></description>
 	<lastBuildDate>Wed, 01 Jan 2025 05:41:57 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		A WordPress Commenter 对《 Hello world! 》的评论		</title>
-		<link>/2025/01/01/hello-world/#comment-1</link>
+		<link>/blog/2025/01/01/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Wed, 01 Jan 2025 05:41:57 +0000</pubDate>

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	「Sample Page」的评论	</title>
-	<atom:link href="/sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/blog/sample-page/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog/</link>
 	<description></description>
 	<lastBuildDate>Wed, 01 Jan 2025 05:41:57 +0000</lastBuildDate>
 	<sy:updatePeriod>
